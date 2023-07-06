@@ -2,7 +2,9 @@
 
 A simple web application built with Angular that allows users to generate secure passwords based on their preferences.
 
-![image](https://github.com/yinonozery/angular-password-generator/assets/74764366/f223e253-e169-47db-a10d-c149105c12d8)
+<div align="center">
+<img src="https://github.com/yinonozery/angular-password-generator/assets/74764366/f223e253-e169-47db-a10d-c149105c12d8" width="300" />
+</div>
 
 ## Features
 Users can choose the length of the password (up to 50 characters).
