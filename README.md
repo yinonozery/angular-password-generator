@@ -1,27 +1,45 @@
-# PasswordGenerator
+# Angular Password Generator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+A simple web application built with Angular that allows users to generate secure passwords based on their preferences.
 
-## Development server
+![image](https://github.com/yinonozery/angular-password-generator/assets/74764366/f223e253-e169-47db-a10d-c149105c12d8)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
+Users can choose the length of the password (up to 50 characters).
+Users can select options for including uppercase letters, lowercase letters, numbers, and symbols.
+Generated passwords are displayed to the user.
+Copy to clipboard functionality for easy usage.
+## Installation
+1. Clone the repository to your local machine.
+   
+```git clone https://github.com/yinonozery/angular-password-generator.git```
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2. Navigate to the project directory.
+   
+```cd angular-password-generator```
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3. Install the dependencies.
+   
+```npm install```
 
-## Running unit tests
+## Usage
+Launch the application by running the following command:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```ng serve```
 
-## Running end-to-end tests
+1. Open your web browser to access the password generator and visit:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```http://localhost:4200 ```
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+2. Adjust the password length and select the desired options.
+
+3. Click on the "Generate" button to generate a password.
+
+4. The generated password will be displayed on the screen. Click the "Copy" icon <img src="https://github.com/yinonozery/angular-password-generator/assets/74764366/7f7dbb50-7703-4886-9ab0-3c4bb0aaab82" /> button to copy it to the clipboard.
+
+
+## Deployment
+The Angular password generator is deployed and accessible online. You can try it out <a href="https://strong-pass-generator.vercel.app/">here</a> <img src="https://user-images.githubusercontent.com/74764366/218328226-f06c59a2-3c9a-4800-96a0-2c1b2f9476bf.png" width="20" />.
