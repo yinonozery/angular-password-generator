@@ -4,6 +4,7 @@ html,
 body {
   height: 100%;
   background-color: #dcf3fb;
+  user-select: none;
 }
 body {
   margin: 0;
