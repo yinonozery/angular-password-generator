@@ -11,30 +11,20 @@ Users can choose the length of the password (up to 50 characters).
 Users can select options for including uppercase letters, lowercase letters, numbers, and symbols.
 Generated passwords are displayed to the user.
 Copy to clipboard functionality for easy usage.
+
 ## Installation
-1. Clone the repository to your local machine.
-   
-```git clone https://github.com/yinonozery/angular-password-generator.git```
+1. Clone the repository to your local machine `git clone https://github.com/yinonozery/angular-password-generator.git`.
 
 
-2. Navigate to the project directory.
-   
-```cd angular-password-generator```
+2. Navigate to the project directory `cd angular-password-generator`.
 
 
-3. Install the dependencies.
-   
-```npm install```
+3. Install the dependencies `npm install`.
 
 ## Usage
-Launch the application by running the following command:
+Launch the application by running the following command: `ng serve`
 
-```ng serve```
-
-1. Open your web browser to access the password generator and visit:
-
-```http://localhost:4200 ```
-
+1. Open your web browser to access the password generator and visit: `http://localhost:4200 `
 
 2. Adjust the password length and select the desired options.
 
@@ -44,4 +34,4 @@ Launch the application by running the following command:
 
 
 ## Deployment
-The Angular password generator is deployed and accessible online. You can try it out <a href="https://strong-pass-generator.vercel.app/">here</a> <img src="https://user-images.githubusercontent.com/74764366/218328226-f06c59a2-3c9a-4800-96a0-2c1b2f9476bf.png" width="20" />.
+The Angular password generator is deployed and accessible online. You can try it out <a href="https://strong-pass-generator.vercel.app/">here <img src="https://user-images.githubusercontent.com/74764366/218328226-f06c59a2-3c9a-4800-96a0-2c1b2f9476bf.png" width="20" /></a>.
